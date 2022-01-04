@@ -57,4 +57,15 @@ If you have any question about this repo,please prepare money,no free.
 |--|--|
 |![](https://github.com/aserbao/AserbaosAndroid/blob/master/app/src/main/assets/images/%E5%BE%AE%E4%BF%A1%E6%89%93%E8%B5%8F.jpeg)|![](https://github.com/aserbao/AserbaosAndroid/blob/master/app/src/main/assets/images/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E8%B5%8F.jpeg)|
 
-
+### 打赏记录
+|备注|金额|
+|--|--|
+|贺利军|66.66￥|
+|小个子|200￥|
+|小Qiao|66.66￥|
+|一路狂奔|20￥|
+|Passerby「路人‘」不欢|66￥|
+|有点小激动|20￥|
+|Orange| 30￥|
+|卡霾哈霾哈|66￥|
+> 说明：大家挣钱不易，如果项目对你有所帮助再打赏。如果有遇到小问题有时间也会免费帮忙解决。
